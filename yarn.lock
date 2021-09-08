@@ -1112,10 +1112,10 @@
     marked "1.1.0"
     window-or-global "^1.0.1"
 
-"@carbon/ibmdotcom-web-components@1.9.0-canary.1":
-  version "1.9.0-canary.1"
-  resolved "https://registry.yarnpkg.com/@carbon/ibmdotcom-web-components/-/ibmdotcom-web-components-1.9.0-canary.1.tgz#6ecf276ad1c46eec14af4b3bbddde5bfab380310"
-  integrity sha512-2vgCQ9WrM84uZ7wgjgyN/+Hw1vtsHk/PcfGnmaTzGfB3gxAKmJupfiu3qSFM6uOSb1vCCNPLOcws510P3yyetQ==
+"@carbon/ibmdotcom-web-components@1.9.0-canary.5":
+  version "1.9.0-canary.5"
+  resolved "https://registry.yarnpkg.com/@carbon/ibmdotcom-web-components/-/ibmdotcom-web-components-1.9.0-canary.5.tgz#b6aa75153c4302768704cb4e6a9f726bc6e66e44"
+  integrity sha512-LQa/anA363h9AbFNqOuwlgPNf6NHJpSv9KRqgDBFZGIyMzyXoShxGdt4XylTw4h794Bi6FPTn4pR9bjRRaxk2Q==
   dependencies:
     "@carbon/ibmdotcom-services" "1.24.0-rc.1"
     "@carbon/ibmdotcom-styles" "1.24.0-rc.0"
