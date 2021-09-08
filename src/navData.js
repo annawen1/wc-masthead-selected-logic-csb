@@ -50,17 +50,17 @@ const navData = [
                   {
                     title: "Subnav 1",
                     titleEnglish: "Subnav 1",
-                    url: "https://rpofp.sse.codesandbox.io/menu-1/link-2/subnav-1",
+                    url: "https://rpofp.sse.codesandbox.io/menu-1/link-1/subnav-1",
                   },
                   {
                     title: "Subnav 2 (with same url as Subnav 3)",
                     titleEnglish: "Subnav 2 (with same url as Subnav 3)",
-                    url: "https://rpofp.sse.codesandbox.io/menu-1/link-2/subnav-3",
+                    url: "https://rpofp.sse.codesandbox.io/menu-1/link-1/subnav-3",
                   },
                   {
                     title: "Subnav 3",
                     titleEnglish: "Subnav 3",
-                    url: "https://rpofp.sse.codesandbox.io/menu-1/link-2/subnav-3",
+                    url: "https://rpofp.sse.codesandbox.io/menu-1/link-1/subnav-3",
                   },
                 ],
               },
