@@ -11,7 +11,7 @@
     "build": "parcel build *.html --no-minify --public-url ./"
   },
   "dependencies": {
-    "@carbon/ibmdotcom-web-components": "1.9.0-canary.1",
+    "@carbon/ibmdotcom-web-components": "file: ./carbon-ibmdotcom-web-components-v1.9.0-rc.3.tgz",
     "lit-element": "^2.3.0",
     "lit-html": "^1.2.0"
   },

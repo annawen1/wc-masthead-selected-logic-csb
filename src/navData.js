@@ -133,8 +133,8 @@ const navData = [
                 title: "Title",
                 links: [
                   {
-                    title: "Subnav 1",
-                    url: "https://rpofp.sse.codesandbox.io/menu-2/subnav-1",
+                    title: "Subnav 1 (Same url as Menu 1 - Link 2 - Subnav 1)",
+                    url: "https://rpofp.sse.codesandbox.io/menu-1/link-2/subnav-1",
                   },
                   {
                     title: "Subnav 2",
@@ -182,9 +182,9 @@ const navData = [
             url: "https://rpofp.sse.codesandbox.io/menu-3/link-2",
           },
           {
-            title: "Link 3 (with same url as Link 2)",
-            titleEnglish: "Link 3 (with same url as Link 2)",
-            url: "https://rpofp.sse.codesandbox.io/menu-3/link-2",
+            title: "Link 3",
+            titleEnglish: "Link 3",
+            url: "https://rpofp.sse.codesandbox.io/menu-3/link-3",
           },
         ],
       },
