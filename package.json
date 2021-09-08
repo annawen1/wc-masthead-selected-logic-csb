@@ -11,13 +11,13 @@
     "build": "parcel build *.html --no-minify --public-url ./"
   },
   "dependencies": {
-    "@carbon/ibmdotcom-web-components": "1.9.0-canary.5",
+    "@carbon/ibmdotcom-web-components": "1.9.0-canary.6",
+    "@babel/plugin-transform-runtime": "^7.15.0",
     "lit-element": "^2.3.0",
     "lit-html": "^1.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0-0",
-    "@babel/plugin-transform-runtime": "^7.15.0",
     "@babel/preset-env": "^7.15.4",
     "carbon-components": "^10.36.0",
     "parcel-bundler": "1.12.3",
